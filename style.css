@@ -1,0 +1,33 @@
+body{
+
+    background-size: cover;
+    
+    }
+    
+    .heading{
+    
+        width:100%;
+        margin-top: 0px;
+        font-size: 25px;
+    
+    }
+    
+    
+    .credits{
+    
+        position: fixed;
+        bottom: 5px;
+        text-align: center;
+        color: white;
+        background-color: gray;
+        width: 100%;
+        line-height: 2;
+    }
+    
+    canvas{
+    
+        border: 5px white solid;
+        border-radius: 20px;
+        margin-top: 150px;
+        box-shadow: 5px 5px 5px grey;
+    }
